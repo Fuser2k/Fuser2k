@@ -1,7 +1,7 @@
 ![MasterHead](https://www.alastyr.com/blog/wp-content/uploads/2021/09/front-end-developer-.jpg)
 
 <h1 align="center">Hi 👋, I'm Olcay Duzgun</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">Hi, I'm Olcay Duzgun, a Computer Science student based in Poland with a strong passion for software development. I'm constantly expanding my knowledge and skills in this ever-evolving field, and I love tackling challenging projects that push the boundaries of what's possible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuser2k&label=Profile%20views&color=0e75b6&style=flat" alt="fuser2k" /> </p>
 
