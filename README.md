@@ -3,39 +3,47 @@
 Software Engineering graduate based in Poland.  
 Backend-oriented developer with strong system fundamentals.
 
-I focus on writing correct, maintainable code and improving through hands-on projects and real codebases.  
-Interested in backend development, performance-aware programming, and open-source contributions.
-
 ---
 
-### Focus
+## Focus Areas
 - Backend development
 - System fundamentals (memory, performance, correctness)
-- Clean code and maintainability
+- Algorithms and data structures
+- Clean and maintainable code
 
-### Primary Skills
+---
+
+## Primary Skills
 - C++
-- JavaScript (backend)
+- Python
+- JavaScript (backend-oriented)
 - Git / GitHub
 
-### Familiar With
+---
+
+## Familiar With
 - SQL basics
+- RESTful APIs
 - Linux fundamentals
-- REST APIs
 
 ---
 
-### Projects
-- **C++ Algorithms & Comparisons** – Implementations and comparisons of classic algorithms with attention to complexity and correctness.
-- **Backend Practice Projects** – Small services and tools focused on data flow, validation, and reliability.
+## Selected Projects
+- **Algorithm_Comparisons (C++)**  
+  Comparative implementations of classic algorithms with a focus on
+  time complexity, data structures, and correctness.
+
+- **project1-algorithms (C++)**  
+  Core algorithm implementations developed to strengthen problem-solving
+  and low-level understanding.
+
+- **pandas-spreadsheet-analyzer (Python)**  
+  A practical tool for cleaning and analyzing spreadsheet data,
+  focusing on data flow and usability rather than UI.
 
 ---
 
-### Open-source
-- Actively looking for good first issues and meaningful contributions.
-
----
-
-### Contact
-- Email: **olcayduzgunn@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/olcay-d%C3%BCzg%C3%BCn-a487a823a/
+## Open-source
+Currently preparing for and actively looking for meaningful open-source
+contributions, especially beginner-friendly issues in backend or
+system-oriented pro
